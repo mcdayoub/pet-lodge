@@ -24,7 +24,7 @@ function DogPage(props) {
 
   let dogMarkup;
   if (loading) {
-    dogMarkup = <p>Loading dog</p>;
+    dogMarkup = <p>Loading dog...</p>;
   } else {
     const { id, name, username, bookedAt, walks } = data.getDog;
     dogMarkup = (

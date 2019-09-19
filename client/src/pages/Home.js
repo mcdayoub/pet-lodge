@@ -22,7 +22,7 @@ function Home(props) {
           </Grid.Column>
         )}
         {loading ? (
-          <h1>Loading dogs..</h1>
+          <h1>Loading dogs...</h1>
         ) : (
           <Transition.Group>
             {data.getDogs &&
