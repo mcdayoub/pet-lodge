@@ -20,4 +20,4 @@ Then run: npm start
 
 If your browser doesn't automatically open up, go to http://localhost:3000/
 
-Voila. You've arrived to the Pet Lodge!
+Voila. You've arrived at the Pet Lodge!
