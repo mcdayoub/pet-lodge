@@ -2,7 +2,10 @@ Hello! Welcome to the Pet Lodge
 
 This is a ReactJS app that utilizes React Hooks, Apollo, GraphQL, NodeJS and many more.
 
-In order to run this please clone the repository: git clone https://github.com/mcdayoub/pet-lodge.git
+If you want to check out the client side, it's here:
+https://pet-lodge-client.herokuapp.com/
+
+In order to run this locally please clone the repository: git clone https://github.com/mcdayoub/pet-lodge.git
 
 Then navigate into the pet-lodge folder: cd pet-lodge
 
